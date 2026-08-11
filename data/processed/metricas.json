@@ -1,0 +1,17 @@
+{
+  "metricas": {
+    "receita_liquida": 12404737.35,
+    "margem_bruta": 4639038.76,
+    "margem_percentual": 0.3739731546996438,
+    "ticket_medio": 19143.113194444442,
+    "crescimento_mensal": 0.06550273282854158,
+    "total_transacoes": 648
+  },
+  "insights": [
+    "A receita do ultimo mes cresceu 6.6% frente ao mes anterior.",
+    "Comercial lidera a receita com R$ 4,343,427 no periodo.",
+    "Gama Servicos e o principal cliente, com R$ 1,837,870 em receita liquida.",
+    "A margem consolidada foi de 37.4%; o ultimo mes fechou em R$ 451,813 de margem bruta.",
+    "Foram processadas 648 transacoes, com ticket medio de R$ 19,143."
+  ]
+}
