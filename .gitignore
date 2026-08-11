@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.python_packages/
+node_modules/
+outputs/charts/*.png
+outputs/pdf/*.pdf
+outputs/spreadsheets/*.xlsx
+outputs/**/*.inspect.ndjson
+docs/pdf-preview-*.png
+!outputs/charts/.gitkeep
+!outputs/pdf/.gitkeep
+!outputs/spreadsheets/.gitkeep
+!outputs/charts/receita_mensal_exemplo.png
+!outputs/charts/margem_por_area_exemplo.png
+!outputs/pdf/relatorio_mensal_exemplo.pdf
+!outputs/spreadsheets/relatorio_mensal_exemplo.xlsx
